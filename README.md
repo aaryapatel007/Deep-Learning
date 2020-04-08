@@ -5,9 +5,9 @@
 
 Instructor: [Andrew Ng](https://www.andrewng.org/)
 
- ## Programming Assignments
+ # Programming Assignments
 
-- **Course 1: Neural Networks and Deep Learning:**
+## Course 1: [Neural Networks and Deep Learning](https://www.coursera.org/lecture/neural-networks-deep-learning/what-is-a-neural-network-eAE2G)
 
   Objectives:
   + Understand the major technology trends driving Deep Learning.
